@@ -34,7 +34,7 @@ a{
 
 
 main{
-background-image: url(griyo.jpg);
+background-image: url(freepik__upload__43518.jpg);
 color: #ffffff;
 background-size: cover;
 height: 80vh;
@@ -149,72 +149,8 @@ body {
   }
 }
 
+body { font-family: "Exo 2", sans-serif; background: rgb(63, 161, 251); background: linear-gradient( 142deg, rgba(63, 161, 251, 1) 0%, rgba(252, 70, 168, 1) 100% ); } .header { max-width: 1200px; margin: 0%; flex-direction: column; padding: 1rem; display: flex; align-items: center; justify-content: center; align-items: start; height: calc(100vh - 4rem); } .title-wrapper { display: grid; align-items: center; justify-content: center; transform: skew(0, -10deg); } .presentation2 { order: 2; color: #10574a; font-weight: 900; text-transform: uppercase; font-size: clamp(3rem, 10vw, 1rem); line-height: 0.75em; text-align: center; text-shadow: 3px 1px 1px #17ffb2, 2px 2px 1px #c4c9d4, 4px 2px 1px #17ffb2, 3px 3px 1px #17ffb2, 5px 3px 1px #17ffb2, 4px 4px 1px #17ffb2, 6px 4px 1px #17ffb2, 5px 5px 1px #17ffb2, 7px 5px 1px #17ffb2, 6px 6px 1px #17ffb2, 8px 6px 1px #17ffb2, 7px 7px 1px #17ffb2, 9px 7px 1px #17ffb2; span { display: block; position: relative; &:before { content: attr(data-text); position: absolute; text-shadow: 2px 2px 1px #19f1ea, -1px -1px 1px #f6f6f7, -2px 2px 1px #ffffff, 1px -1px 1px #f6f6f7; z-index: 1; } &:nth-child(1) { padding-right: 2.25rem; } &:nth-child(2) { padding-left: 2.25rem; } } }
 
-
-body {
-  font-family: "Exo 2", sans-serif;
-  background: rgb(63, 161, 251);
-  background: linear-gradient(
-    142deg,
-    rgba(63, 161, 251, 1) 0%,
-    rgba(252, 70, 168, 1) 100%
-    );
-  }
-  
-  .header {
-    max-width: 1200px;
-    margin: 0%;
-    flex-direction: column;
-    padding: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    align-items: start;
-    height: calc(100vh - 4rem);
-  }
-  
-  .title-wrapper {
-    display: grid;
-    align-items: center;
-    justify-content: center;
-    transform: skew(0, -10deg);
-  }
-  
-  .presentation2 {
-    order: 2;
-    color: #10574a;
-    font-weight: 900;
-    text-transform: uppercase;
-    font-size: clamp(3rem, 10vw, 1rem);
-    line-height: 0.75em;
-    text-align: center;
-    text-shadow: 3px 1px 1px #17ffb2, 2px 2px 1px #c4c9d4, 4px 2px 1px #17ffb2,
-    3px 3px 1px #17ffb2, 5px 3px 1px #17ffb2, 4px 4px 1px #17ffb2,
-    6px 4px 1px #17ffb2, 5px 5px 1px #17ffb2, 7px 5px 1px #17ffb2,
-    6px 6px 1px #17ffb2, 8px 6px 1px #17ffb2, 7px 7px 1px #17ffb2,
-    9px 7px 1px #17ffb2;
-    
-    span {
-      display: block;
-      position: relative;
-      
-      &:before {
-        content: attr(data-text);
-        position: absolute;
-        text-shadow: 2px 2px 1px #19f1ea, -1px -1px 1px #f6f6f7,
-        -2px 2px 1px #ffffff, 1px -1px 1px #f6f6f7;
-        z-index: 1;
-      }
-      
-      &:nth-child(1) {
-        padding-right: 2.25rem;
-      }
-      
-      &:nth-child(2) {
-        padding-left: 2.25rem;
-      }
-    }
-  }
 
     .surme{
       height: 35px;
@@ -228,4 +164,299 @@ body {
       font-size: 20px;
       border-right: #19f1ea;
     }
+    #page3{
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+     
+      
+    }
+    .Myskills3{
+      order: 2;
+      color: #10574a;
+      font-weight: 900;
+      text-transform: uppercase;
+      font-size: clamp(3rem, 10vw, 1rem);
+      line-height: 0.75em;
+      text-align: center;
+      text-shadow: 3px 1px 1px #17ffb2, 2px 2px 1px #c4c9d4, 4px 2px 1px #17ffb2,
+      3px 3px 1px #17ffb2, 5px 3px 1px #17ffb2, 4px 4px 1px #17ffb2,
+      6px 4px 1px #17ffb2, 5px 5px 1px #17ffb2, 7px 5px 1px #17ffb2,
+      6px 6px 1px #17ffb2, 8px 6px 1px #17ffb2, 7px 7px 1px #17ffb2,
+      9px 7px 1px #17ffb2;
+      
+      span {
+        display: block;
+        position: relative;
+        
+        &:before {
+          content: attr(data-text);
+          
+          text-shadow: 2px 2px 1px #19f1ea, -1px -1px 1px #f6f6f7,
+          -2px 2px 1px #ffffff, 1px -1px 1px #f6f6f7;
+          z-index: 1;
+        }
+        
+        &:nth-child(1) {
+          padding-right: 2.25rem;
+        }
+        
+        &:nth-child(2) {
+          padding-left: 2.25rem;
+        }
+      }
+    }
+  .skillscss{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+  }
+
+  .gogo{
    
+    height: 1000000%;
+  }
+  
+  
+  
+}
+p{
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+
+}
+
+.htmlimage{
+  height: 
+}
+
+.icon-image {
+  width: 200px;
+}
+
+.skills-header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  width: 100%;
+}
+
+.icon-image {
+  width: 150px;
+  height: auto;
+}
+
+
+.softskill p {
+  color: #10574a;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: clamp(3rem, 10vw, 6rem);
+  line-height: 0.75em;
+  text-align: center;
+  position: relative;
+  display: flex;
+  font-size: 50px;
+  
+  
+}
+
+
+.softskill p {
+  content: "softskills";
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-shadow: 2px 2px 1px #19f1ea,
+  -1px -1px 1px #f6f6f7,
+  -2px 2px 1px #ffffff,
+  1px -1px 1px #f6f6f7;
+  z-index: 1;
+ 
+}
+.title-wrapper, .softskill {
+  transform: skew(0, -10deg);
+}
+
+.softskill {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.softskill-text {
+  color: #ffffff;
+  font-size: 18px;
+  margin: 0;
+  }
+  .contact-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactremplissage {
+    text-align: center;
+    padding: 40px;
+}
+
+.contact {
+    color: #10574a;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: clamp(3rem, 10vw, 6rem);
+    text-shadow: 3px 1px 1px #17ffb2, 
+    2px 2px 1px #c4c9d4,
+    4px 2px 1px #17ffb2;
+    margin-bottom: 50px;
+}
+
+.contactflex {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contacto {
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease;
+}
+
+.contacto:hover {
+    transform: translateY(-5px);
+}
+
+.contacto h2 {
+    color: #17ffb2;
+    font-size: 24px;
+    margin: 15px 0;
+}
+
+.contacto a {
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contacto a:hover {
+    color: #17ffb2;
+}
+.social-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-container {
+  text-align: center;
+  padding: 40px;
+}
+
+.social-title {
+  color: #10574a;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: clamp(3rem, 10vw, 6rem);
+  text-shadow: 3px 1px 1px #17ffb2, 
+               2px 2px 1px #c4c9d4,
+               4px 2px 1px #17ffb2;
+  margin-bottom: 60px;
+}
+
+.social-grid {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.social-card {
+  width: 300px;
+  padding: 40px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.social-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+.social-icon {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.instagram .social-icon {
+  color: #E1306C;
+}
+
+.facebook .social-icon {
+  color: #4267B2;
+}
+
+.social-card h2 {
+  color: #17ffb2;
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+
+.social-link {
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid #17ffb2;
+  border-radius: 30px;
+}
+
+.social-link:hover {
+  background: #17ffb2;
+  color: #10574a;
+}
+.network-title {
+  color: #10574a;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: clamp(3rem, 10vw, 6rem);
+  line-height: 0.75em;
+  text-align: center;
+  text-shadow: 3px 1px 1px #17ffb2, 
+4px 4px 1px #17ffb2,
+6px 4px 1px #17ffb2, 
+5px 5px 1px #17ffb2, 
+7px 5px 1px #17ffb2,
+6px 6px 1px #17ffb2, 
+8px 6px 1px #17ffb2, 
+7px 7px 1px #17ffb2,
+9px 7px 1px #17ffb2;
+}
+
+.network-title span {
+  display: block;
+  position: relative;
+}
+
+.network-title span:before {
+  content: attr(data-text);
+  position: absolute;
+  text-shadow: 2px 2px 1px #19f1ea,
+-1px -1px 1px #f6f6f7,
+-2px 2px 1px #ffffff,
+1px -1px 1px #f6f6f7;
+  z-index: 1;
+}
+
